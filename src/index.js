@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Button } from 'carbon-components-react';
+
 import './index.css';
 // import App from './App';
+
 import * as serviceWorker from './serviceWorker';
 
 // <App /> funcao principal que contem todos os 
@@ -68,6 +71,7 @@ function App (){
             
             <div>    
                 <ActionLink />
+                <Button>Teste</Button>
             </div>
         </div>
     );
