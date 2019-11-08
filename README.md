@@ -1,6 +1,4 @@
-# React Example
-## Repo to learn ReactJS
-
+# React Example 
 
 ### Site (_unfinished_)
 [ReactExample](https://andersonalencarbarros.github.io/ReactExample/)
